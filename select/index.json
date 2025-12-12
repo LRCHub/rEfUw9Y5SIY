@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "東京宣言",
+  "base_artist": "Tele",
+  "createdAt": "2025-12-12T04:44:25.311546Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "東京宣言 - Tokyo Sengen",
+      "artist": "Tele",
+      "has_synced": true,
+      "path": "select/01_東京宣言_-_Tokyo_Sengen_Tele.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "東京宣言",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/pl_01_東京宣言_Tele.txt"
+    }
+  ]
+}
